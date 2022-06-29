@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+![MasterHead](https://www.ieeer10.org/wp-content/uploads/2018/02/Programmer-Wallpaper-17582_uwp_banner_thumb.png)
 <h1 align="center">Hi 👋, I'm Supun Randika</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://csspoint101.com/wp-content/uploads/2020/10/Developer-on-laptop.gif"
