@@ -7,8 +7,6 @@
 
 - 🔭 I’m a undergraduate student at **Open University of Sri Lanka**
 
-- 👨‍💻 I’m currently working as a freelancer [https://www.fiverr.com/prime1_creation](https://www.fiverr.com/prime1_creation)
-
 - 🌱 I’m currently learning **JavaScript, Bootstrap**
 
 - 👀 I’m looking to collaborate on **small projects.**
