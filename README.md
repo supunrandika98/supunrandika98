@@ -1,7 +1,7 @@
 ![MasterHead](https://www.ieeer10.org/wp-content/uploads/2018/02/Programmer-Wallpaper-17582_uwp_banner_thumb.png)
 <h1 align="center">Hi 👋, I'm Supun Randika</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://csspoint101.com/wp-content/uploads/2020/10/Developer-on-laptop.gif"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/3281732/screenshots/6552930/ef066617-ce4e-45c9-ae22-1af21711119c.jpeg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supunrandika98&label=Profile%20views&color=0e75b6&style=flat" alt="supunrandika98" /> </p>
 
